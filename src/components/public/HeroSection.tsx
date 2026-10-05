@@ -92,7 +92,7 @@ export const HeroSection: React.FC = () => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden border border-slate-200/80 shadow-xl bg-slate-100 aspect-16/11 lg:aspect-4/3">
               <img
-                src="/src/assets/images/hero_dental_care_1791148458507.jpg"
+                src="/assets/images/hero_dental_care_1791148458507.jpg"
                 alt="SMILORA Modern Dental Clinic Operatory"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"

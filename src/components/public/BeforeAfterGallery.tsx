@@ -45,8 +45,8 @@ export const BeforeAfterGallery: React.FC = () => {
       description: 'Severe tobacco and coffee discoloration lifted by 7 shades using gentle cold-light photoactivation with zero nerve sensitivity.',
       beforeLabel: 'Baseline Shade A3.5',
       afterLabel: 'Post-Treatment Shade B1',
-      beforeImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
-      afterImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
+      beforeImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
+      afterImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
     },
     {
       id: 'case-2',
@@ -58,8 +58,8 @@ export const BeforeAfterGallery: React.FC = () => {
       description: 'Corrected central diastema (gap), uneven incisal wear, and intrinsic enamel fluorosis staining with ultra-conservative veneer preparations.',
       beforeLabel: 'Pre-Op Diastema & Wear',
       afterLabel: 'Handcrafted Ceramic Symmetry',
-      beforeImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
-      afterImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
+      beforeImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
+      afterImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
     },
     {
       id: 'case-3',
@@ -71,8 +71,8 @@ export const BeforeAfterGallery: React.FC = () => {
       description: 'Resolved severe lower anterior crowding and aligned the upper arch smile line without metal brackets or tooth extractions.',
       beforeLabel: 'Severe Lower Crowding',
       afterLabel: 'Harmonic Arch Alignment',
-      beforeImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
-      afterImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
+      beforeImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
+      afterImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
     },
     {
       id: 'case-4',
@@ -84,8 +84,8 @@ export const BeforeAfterGallery: React.FC = () => {
       description: 'Restored fractured upper right central incisor with computer-guided surgical implant and layered zirconia aesthetic crown.',
       beforeLabel: 'Missing Fractured Incisor',
       afterLabel: 'Lifelike Zirconia Crown',
-      beforeImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
-      afterImage: '/src/assets/images/dental_smile_portrait_1791148478469.jpg',
+      beforeImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
+      afterImage: '/assets/images/dental_smile_portrait_1791148478469.jpg',
     },
   ];
 

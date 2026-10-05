@@ -203,7 +203,7 @@ export default function App() {
 
                 <div className="relative rounded-2xl overflow-hidden border border-slate-700 aspect-4/3 shadow-2xl">
                   <img
-                    src="/src/assets/images/dental_smile_portrait_1791148478469.jpg"
+                    src="/assets/images/dental_smile_portrait_1791148478469.jpg"
                     alt="Radiant, Healthy Smile Transformation"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"

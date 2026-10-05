@@ -50,7 +50,7 @@ export const AboutPage: React.FC = () => {
 
           <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg aspect-4/3 bg-slate-100">
             <img
-              src="/src/assets/images/dental_technology_clinic_1791148510349.jpg"
+              src="/assets/images/dental_technology_clinic_1791148510349.jpg"
               alt="High-Tech Dental Operatory at SMILORA"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
