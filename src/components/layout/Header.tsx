@@ -33,8 +33,8 @@ export const Header: React.FC = () => {
     { label: 'Reviews', route: '/reviews' },
     { label: 'Pricing', route: '/pricing' },
     { label: 'Emergency', route: '/emergency' },
-    { label: 'Blog', route: '/blog' },
     { label: 'Contact', route: '/contact' },
+    { label: 'Blog', route: '/blog' },
   ];
 
   const handleNavClick = (route: string) => {
@@ -113,20 +113,20 @@ export const Header: React.FC = () => {
                 Pricing
               </button>
               <button
-                onClick={() => handleNavClick('/blog')}
-                className={`py-1 transition-colors hover:text-slate-900 ${
-                  activeRoute.startsWith('/blog') ? 'text-teal-700 font-semibold border-b-2 border-teal-600' : ''
-                }`}
-              >
-                Blog
-              </button>
-              <button
                 onClick={() => handleNavClick('/contact')}
                 className={`py-1 transition-colors hover:text-slate-900 ${
                   activeRoute === '/contact' ? 'text-teal-700 font-semibold border-b-2 border-teal-600' : ''
                 }`}
               >
                 Contact
+              </button>
+              <button
+                onClick={() => handleNavClick('/blog')}
+                className={`py-1 transition-colors hover:text-slate-900 ${
+                  activeRoute.startsWith('/blog') ? 'text-teal-700 font-semibold border-b-2 border-teal-600' : ''
+                }`}
+              >
+                Blog
               </button>
             </nav>
 
