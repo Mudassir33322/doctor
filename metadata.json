@@ -1,0 +1,6 @@
+{
+  "name": "SMILORA Dental Care - Clinic & Patient Booking Platform",
+  "description": "Premium dental clinic website with real-time multi-step appointment booking, patient portal, dentist workflows, billing, treatment plans, and clinic administration portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
